@@ -89,5 +89,4 @@ MIT License
 
 ---
 
-Author: Gustavo Alcántara, PhD Student
-
+Author: Gustavo Alcántara
